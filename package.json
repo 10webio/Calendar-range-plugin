@@ -42,7 +42,7 @@
     "jest": "^26.0.1"
   },
   "peerDependencies": {
-    "@ant-design/icons": "^4.2.2",
+    "@ant-design/icons": ">=4.2.2",
     "react": "^16 || ^17"
   },
   "publishConfig": {

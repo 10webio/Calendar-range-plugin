@@ -34,7 +34,10 @@ import Popover from 'src/components/Popover';
 import { Divider } from 'src/components';
 import Icons from 'src/components/Icons';
 import { Tooltip } from 'src/components/Tooltip';
-import { DEFAULT_TIME_RANGE, NO_TIME_RANGE } from 'src/explore/constants';
+/* Customized by @saghatelian */
+const DEFAULT_TIME_RANGE = 'No filter';
+const NO_TIME_RANGE = 'No filter';
+
 import { useDebouncedEffect } from 'src/explore/exploreUtils';
 import { SLOW_DEBOUNCE } from 'src/constants';
 import { testWithId } from 'src/utils/testUtils';

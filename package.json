@@ -1,17 +1,17 @@
 {
-  "name": "@nischalbharat/calendar-range-plugin",
-  "version": "0.0.1",
+  "name": "@10webio/calendar-range-plugin",
+  "version": "0.0.2",
   "description": "Custom Superset Chart plugin",
   "keywords": [
     "superset"
   ],
-  "homepage": "https://github.com/BharatNischal/Calendar-range-plugin#readme",
+  "homepage": "https://github.com/10webio/Calendar-range-plugin#readme",
   "bugs": {
-    "url": "https://github.com/BharatNischal/Calendar-range-plugin/issues"
+    "url": "https://github.com/10webio/Calendar-range-plugin/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BharatNischal/Calendar-range-plugin.git"
+    "url": "git+https://github.com/10webio/Calendar-range-plugin.git"
   },
   "license": "Apache-2.0",
   "author": "",

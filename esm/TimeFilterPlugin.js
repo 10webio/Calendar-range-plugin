@@ -20,7 +20,8 @@
 import { styled } from '@superset-ui/core';
 import React, { useCallback, useEffect } from 'react';
 import DateFilterControl from './NewDateFilterControl';
-import { NO_TIME_RANGE } from 'src/explore/constants';
+/* Customized by @saghatelian */
+const NO_TIME_RANGE = 'No filter';
 
 import { FilterPluginStyle } from 'src/filters/components/common';
 import moment from 'moment';
